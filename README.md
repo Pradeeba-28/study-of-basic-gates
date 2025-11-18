@@ -77,7 +77,8 @@ assign g = ~(a | b);
 assign h = ~(a ^ b);  
 endmodule  
 
- Developed by: PRADEEBA V RegisterNumber: 25009895
+ Developed by: PRADEEBA V  
+ RegisterNumber: 25009895
  
 **Logic symbol & Truthtable**
 
@@ -85,6 +86,6 @@ endmodule
 
 **RTL**
 
-**Result:**
+**Result:** The truth table of logic gates in Quartus II using Verilog programming has been verified successfully.
 
 
