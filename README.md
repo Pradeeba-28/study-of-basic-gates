@@ -81,11 +81,13 @@ endmodule
  RegisterNumber: 25009895
  
 **Logic symbol & Truthtable**
+<img width="955" height="777" alt="logic gates" src="https://github.com/user-attachments/assets/94fdacd4-3323-4b45-8b98-070b9eb473a9" />
 
 **RTL realization Output:** 
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/2aa97414-0d88-478e-80fc-8f7896d835c8" />
 
 **RTL**
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/5d5c8e27-235b-4300-b0ff-d17403fcf409" />
 
 **Result:** The truth table of logic gates in Quartus II using Verilog programming has been verified successfully.
 
